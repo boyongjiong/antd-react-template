@@ -1,0 +1,24 @@
+{
+  "name": "antd-react-template",
+  "version": "1.0.0",
+  "description": "使用Antd提供的组件写一个Admin管理平台模板",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyongjiong/antd-react-template.git"
+  },
+  "keywords": [
+    "Antd",
+    "React",
+    "Template"
+  ],
+  "author": "boyongjiong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boyongjiong/antd-react-template/issues"
+  },
+  "homepage": "https://github.com/boyongjiong/antd-react-template#readme"
+}

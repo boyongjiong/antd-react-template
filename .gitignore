@@ -1,8 +1,16 @@
-# Windows:
-Thumbs.db
-ehthumbs.db
-Desktop.ini
+# Logs
+logs
+*.log
 
-# My Configurations:
+# Dependency directory
+node_modules
+bower_components
 
-node_modules/
+# Project
+.ides
+*.iml
+.DS_Srore
+
+# Compiled files
+public/css/*
+public/js/*
